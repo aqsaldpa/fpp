@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item1"
+        android:title="Beranda"
+        app:cnb_textColor="#fff"
+        app:cnb_iconColor="#fff"
+        app:cnb_backgroundColor="#FFC107"
+        android:icon="@drawable/ic_home_black_24dp"/>
+
+
+
+    <item
+        android:id="@+id/item3"
+        android:title="Favorit"
+        app:cnb_textColor="#fff"
+        app:cnb_iconColor="#fff"
+        app:cnb_backgroundColor="#FFC107"
+        android:icon="@drawable/ic_baseline_favorite_24"/>
+
+    <item
+        android:id="@+id/item4"
+        android:title="Profil"
+        app:cnb_textColor="#fff"
+        app:cnb_iconColor="#fff"
+        app:cnb_backgroundColor="#FFC107"
+        android:icon="@drawable/ic_baseline_person_outline_24"/>
+</menu>
